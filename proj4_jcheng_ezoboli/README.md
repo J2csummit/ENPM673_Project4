@@ -30,5 +30,6 @@ Steps to run code
 8. Copy contents of "Stuff to go in Mask_RCNN-TF2" folder into "Mask_RCNN-TF2" folder that was just created.
 	- a) do not simply drag one folder into the other, you must actuallly place the contents of one folder in the other folder
 9. Navigate to the directory of "Mask_RCNN-TF2" in the project folder and run "python m_rcnn.py"
-10. m_rcnn.py python file should output png files in the directory that show identified objects in original images
+10. m_rcnn.py python file should output png files in the directory that show identified objects in original 
+	- a) you may have to re-run a couple times for it to work
 

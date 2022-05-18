@@ -20,7 +20,7 @@ Steps to run code
 4. Download the following into the project directory: https://pjreddie.com/media/files/yolov3.weights
 5. Navigate to the directory of the project and run model.py python
 	- a) Run from terminal
-6. Navigate to the directory of the project and run yolo.py python
+6. Navigate to the directory of the project and run "python yolo.py"
 	- a) Run from terminal
 5. yolo.py python file should output png files in the directory that show identified objects in original images
 6. In project directory, from terminal, run "git clone https://github.com/alsombra/Mask_RCNN-TF2.git"
@@ -29,6 +29,6 @@ Steps to run code
 	- a) rename this file "model.h5"
 8. Copy contents of "Stuff to go in Mask_RCNN-TF2" folder into "Mask_RCNN-TF2" folder that was just created.
 	- a) do not simply drag one folder into the other, you must actuallly place the contents of one folder in the other folder
-9. Navigate to the directory of "Mask_RCNN-TF2" in the project folder and run yolo.py python "m_rcnn.py"
+9. Navigate to the directory of "Mask_RCNN-TF2" in the project folder and run "python m_rcnn.py"
 10. m_rcnn.py python file should output png files in the directory that show identified objects in original images
 
